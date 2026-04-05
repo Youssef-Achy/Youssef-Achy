@@ -7,4 +7,10 @@ My interests in mathematics and philosophy shape my analytical approach to probl
 
 I thrive on creating intuitive, user-friendly web applications that deliver seamless experiences.
 
+## **Fun facts about me:**
+- I love making pastries
+- I graduated among top students in my country
+- I love philosophy and mathematics
+- **Hobbies: ** reading, learning new stuff and building things
+
 Checkout my portfolio using this fancy link 👉 [Click Me!](youssef-achy-portfolio.vercel.app)
